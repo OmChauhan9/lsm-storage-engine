@@ -1,0 +1,31 @@
+# Maven build target directory
+target/
+*.class
+
+# Log files and runtime test data
+*.log
+*.db
+data/
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor configurations
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+.vscode/
+
+# Crash dumps and heap logs
+hs_err_pid*
+replay_pid*
